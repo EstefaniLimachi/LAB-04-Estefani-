@@ -1,0 +1,22 @@
+—¿Cómo es que se instalan paquetes con yarn?
+Instalación
+Te mostrare dos maneras de instalar Yarn, estas son :
+
+Deberás de tener Instalado Node.js para poder utilizarlo
+
+Descargando el Instalar de Window
+Win: Descargar Instalador
+Esta es la manera mas rápida y fácil de instalar Yarn, ejecuta en tu consola o terminal lo siguiente :
+npm install --global yarn
+
+Ahora comprueba que Yarn se instalo correctamente ejecutando el siguiente comando:
+
+yarn --version
+
+Si todo salio bien deberá de aparecerte la versión mas reciente de Yarn
+
+—¿Cómo es que se borran paquetes con yarn?
+yarn remove[package] - ejemplo: yarn remove vue
+
+—¿Hay algún equivalente en yarn que haga lo mismo que npm init?
+npm init	yarn init
